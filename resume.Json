@@ -5,10 +5,10 @@
     "picture": "",
     "email": "singhamritpal49@gmail.com",
     "website": "https://singhamritpal49.github.io/Portfolio/",
-    "summary": "Full Stack Developer with experience using frontend and backend technologies such as Ruby, Ruby on Rails, JavaScript, and
-React. I have a background in Electrical Engineering and Tax Accounting. Previously worked 6 plus years as a lead IT
-Technician, I bring strong skills in collaborating with teams, solving problems, by using innovative ideas, and creativity for
-accomplishing projects.",
+    "summary": "Full Stack Developer with experience using frontend and backend technologies such as Ruby, Ruby on Rails, JavaScript, and"
+                 "React. I have a background in Electrical Engineering and Tax Accounting. Previously worked 6 plus years as a lead IT"
+                  "Technician, I bring strong skills in collaborating with teams, solving problems, by using innovative ideas, and creativity for"
+                    "accomplishing projects.",
     "location": {
       "region": "New York"
     },
@@ -27,10 +27,10 @@ accomplishing projects.",
       "startDate": "02/01/2013",
       "endDate": "05/01/2019",
       "highlights": [
-        "Built and maintained strong relationships with clients over six-plus years. Assisted CPA with taxes and helped to create 100+ new client accounts.
-         Prepared personal and small business taxes for over 500 + clients. Introduced cloud software for the firm which allowed employees to work remotely.
-         Led the project that transformed the digital platform of documents and workflow to a server while syncing the data across various devices.
-         Solved a major crisis as the company's main computers suffered data failure by retrieving the data from the backup servers."
+        "Built and maintained strong relationships with clients over six-plus years. Assisted CPA with taxes and helped to create 100+ new client accounts."
+         "Prepared personal and small business taxes for over 500 + clients. Introduced cloud software for the firm which allowed employees to work remotely."
+         "Led the project that transformed the digital platform of documents and workflow to a server while syncing the data across various devices."
+         "Solved a major crisis as the company's main computers suffered data failure by retrieving the data from the backup servers."
       ]
     }
   ],
@@ -47,10 +47,9 @@ accomplishing projects.",
       "area": "Electrical Engineering",
     }
   ],
-  ],
   "tech skills": [
     {
-      "name": "Ruby, Rails, JavaScript, React, PostgreSQL, SQLite, ActiveRecord, HTML/CSS, JWT, RESTful API, OOP, JSON, MVC, Git,
+      "name": "Ruby, Rails, JavaScript, React, PostgreSQL, SQLite, ActiveRecord, HTML/CSS, JWT, RESTful API, OOP, JSON, MVC, Git,"
 "Bootstrap, Semantic UI.",
     }
   ],
